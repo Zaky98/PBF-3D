@@ -1,0 +1,31 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "NIM": 1741720014,
+      "nama": "Zaky Maula Luthfansa",
+      "alamat": "Jl. Soekarno Hatta No. 9 Malang",
+      "hp": "085232665534",
+      "angkatan": 2017,
+      "status": "aktif"
+    },
+    {
+      "id": 2,
+      "NIM": 140823453,
+      "nama": "Mahendra Talenta",
+      "alamat": "Jl. Menur No. 9 Surabaya",
+      "hp": "081802023523",
+      "angkatan": 2014,
+      "status": "lulus"
+    },
+    {
+      "NIM": "1731720033",
+      "nama": "Haw ayu todey",
+      "alamat": "JL. Singkong kamu No. 20",
+      "hp": "085232321323",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "id": 1583533637708
+    }
+  ]
+}

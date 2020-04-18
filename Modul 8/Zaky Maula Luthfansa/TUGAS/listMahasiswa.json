@@ -1,0 +1,13 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "NIM": 1741720014,
+      "nama": "Zaky Maula Luthfansa",
+      "alamat": "Jl. Soekarno Hatta No. 9 Malang",
+      "hp": "085232665534",
+      "angkatan": 2017,
+      "status": "aktif"
+    }
+  ]
+}
