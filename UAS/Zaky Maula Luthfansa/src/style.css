@@ -1,0 +1,52 @@
+body {
+  background-image: url("https://files.123freevectors.com/wp-content/original/141642-blue-and-orange-geometric-shapes-background-vector.jpg");
+  padding: 20px;
+  margin: 0;
+  background-size: 1800px;
+}
+.title {
+  color: white;
+}
+.subtitle {
+  color: white;
+}
+
+.rotate90 {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+h1, h2, p, ul, li {
+  font-family: sans-serif;
+}
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+ul.header {
+  background-color: #3086D2;
+  padding: 0;
+}
+ul.header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+.content {
+  background-color: #FFF;
+  padding: 20px;
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
+}
+li.right { float:right; }
